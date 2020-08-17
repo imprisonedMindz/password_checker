@@ -12,6 +12,6 @@ python .\check_my_pass.py password_you_want_to_check
 
 * Example:
 ```
-.\check_my_pass.py password123
+python .\check_my_pass.py password123
 The password: password123 was found 123063 times... You should probably change your password!
 ```
