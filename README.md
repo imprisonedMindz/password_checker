@@ -1,6 +1,6 @@
 # Password Checker
 
-This is a simple Python script that makes a call to the https://haveibeenpwned.com/ API which is basically like one big databased of leaked passwords and checks via sha encryption if the passed password paramter has ever been leaked.
+This is a simple Python script that makes a call to the https://haveibeenpwned.com/ API which is basically like one big databased of leaked passwords and checks via sha encryption if the password paramter has ever been leaked.
 
 ## How does it work:
 
